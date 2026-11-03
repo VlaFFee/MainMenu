@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="cybermenu"
+version="1.3.0"
+displayName="CyberMenu"
+authors="VlaFFi corp."
+displayTest="IGNORE_SERVER_VERSION"
+description='''
+Полная кибер-переделка интерфейса: живой фон из светящихся точек, терминальное главное меню,
+стилизованные кнопки во всех меню и настройках, плавные анимации и переходы между экранами.
+Только для клиента: на сервер ставить не нужно.
+'''
+
+[[dependencies.cybermenu]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.cybermenu]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="CLIENT"

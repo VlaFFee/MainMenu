@@ -1,0 +1,7 @@
+{
+  "ui.hum":        { "category": "master", "sounds": [ { "name": "cybermenu:hum" } ] },
+  "ui.hover":      { "category": "master", "sounds": [ { "name": "cybermenu:hover" } ] },
+  "ui.click":      { "category": "master", "sounds": [ { "name": "cybermenu:click" } ] },
+  "ui.transition": { "category": "master", "sounds": [ { "name": "cybermenu:transition" } ] },
+  "ui.shutdown":   { "category": "master", "sounds": [ { "name": "cybermenu:shutdown" } ] }
+}

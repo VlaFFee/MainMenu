@@ -1,0 +1,10 @@
+{
+  "cybermenu.title": "Главное меню",
+  "cybermenu.menu.singleplayer": "Одиночная игра",
+  "cybermenu.menu.multiplayer": "Сетевая игра",
+  "cybermenu.menu.mods": "Моды",
+  "cybermenu.menu.options": "Настройки",
+  "cybermenu.menu.quit": "Выход",
+  "cybermenu.menu.language": "Язык",
+  "cybermenu.menu.access": "Доступность"
+}

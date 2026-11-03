@@ -1,0 +1,8 @@
+{
+  "ui.button.click": {
+    "replace": true,
+    "sounds": [
+      { "name": "cybermenu:click", "volume": 0.6 }
+    ]
+  }
+}
